@@ -1,0 +1,51 @@
+Anuj  Patel  
+patelanuj2212@gmail.com  | 9054377218 | Ahmedabad, Gujarat, India 
+LinkedIn  | GitHub  
+ 
+PROFILE  
+ 
+I am a Computer Science student with a good understanding of full -stack web development.  I have experience using HTML, 
+CSS, JavaScript, Django, and Node.js.  I enjoy creating websites and web apps, improving their speed, and working with others 
+to build useful features.  
+ 
+EDUCATION  
+Charotar  University  of Science  and  Technology  (CHARUSAT),  Gujarat                                  2022 – 2026  
+B.Tech  in Computer  Science  and Engineering  CGPA:  8.66  / 10 (Till 6th Semester)  
+Perfect  School,  Himatnagar,  Gujarat  2020 – 2022  
+Higher  Secondary  Education  (Class  XII),  Science  Stream  Percentage:  75%  
+New  English  Higher  Secondary  School,  Himatnagar  2019 – 2020  
+Secondary  Education  (Class  X) Percentage:  87%  
+PROJECTS  
+ 
+Fitness  Web  App  – A responsive  fitness  platform  with  workout/diet  tracking  and optimized  queries.  (HTML,  CSS,  JavaScript, 
+Django)  
+Employee Management  System  – Automated payroll, leave, and HR operations for streamlined admin workflow.  (HTML, 
+CSS, JS, PHP)  
+MERN  E-State  Project  – A real estate  platform  to list, buy,  and manage  properties  using  the MERN  stack.  
+MERN  Food  Delivery  App  – A complete  food  ordering  app with  restaurant  listings,  cart,  and payment  features.  
+ 
+WORK  EXPERIENCE  
+ 
+Web  Developer  Intern  — InternPe,  Jaipur  (Remote)  Feb 2024  – Mar  2024  
+ 
+Redesigned  pages  using  HTML,  CSS,  JavaScript,  and improved  site responsiveness  and cross -device  support.  
+Full Stack  Developer  — Exposys  Data  Labs  (Remote)  May  2025  – June  2025  
+ 
+Built  full-stack  web  apps  using  MERN  stack,  integrated  REST  APIs,  and collaborated  using  Git and Jira.  
+ 
+SKILLS  
+ 
+Frontend:  HTML,  CSS,  JavaScript,  React.js  
+Backend:  Node.js  
+Databases:  MySQL,  MongoDB  
+Languages:  Java,  C++  
+Tools:  GitHub  
+ 
+CERTIFICATIONS  & ACHIEVEMENTS  
+ 
+Completed “Programming in Java” – NPTEL (2023) 
+Completed  “Database  Management  System”  – NPTEL  (2024)  
+Completed “Fundamentals of Red Hat Linux 9” – Red Hat (2024) 
+Completed AWS Cloud Developer Course – AWS (2025) 
+Participated in various coding competitions and hackathons  
+Participated  in a Technical  Treasure  Hunt  event  and secured  finalist  position  
